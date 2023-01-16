@@ -21,3 +21,20 @@ section
     border: 2px solid gray;
     padding: 1rem; 
 }
+footer
+{
+    width: 70%;
+    max-width: 70%;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: black;
+}
+footer > p 
+{
+    color: azure;
+    background-color: black;
+    font-size: 1.5rem;
+}
